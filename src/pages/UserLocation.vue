@@ -32,7 +32,7 @@ export default {
           }
         )
       } else {
-        console.log("Your browser does not support geolocation API")
+        console.log('Your browser does not support geolocation API')
       }
     }
   }
